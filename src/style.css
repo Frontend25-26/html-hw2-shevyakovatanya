@@ -286,3 +286,9 @@ audio {
 
     overflow-x: auto;
 }
+
+figcaption {
+    color: #e5e5e5a3;
+    font-size: 90%;
+    margin: 5px 5px;
+}
